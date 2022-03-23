@@ -6,11 +6,11 @@ In late 2021 and early 2022, researchers at Apple took to heart the internet-wid
 
 Apple wrote and released an implementation of the test in its iOS and macOS operating systems in [versions 15 and Monterey](https://support.apple.com/en-gb/HT212313), respectively.
 
-The researchers at Apple, in collaboration with others throughout the internet-measurement community, proposed RPM as an [IETF RFC](https://github.com/network-quality/draft-ietf-ippm-responsiveness/blob/master/draft-ietf-ippm-responsiveness.txt).
+The researchers at Apple, in collaboration with others throughout the internet-measurement community, proposed RPM as an [experimental protocol](https://github.com/network-quality/draft-ietf-ippm-responsiveness/blob/master/draft-ietf-ippm-responsiveness.txt).
 
 ## Independent Implementation
 
-To become a Draft Standard, "at least two independent and interoperable implementation[s]" must exist [RFC2026]. The goal of this implementation of the standard is to satisfy that requirement.
+If this protocol is later to become a Draft Standard, "at least two independent and interoperable implementation[s]" must exist [RFC2026]. The goal of this implementation of the protocol is to later satisfy that requirement.
 
 ## Operation
 
